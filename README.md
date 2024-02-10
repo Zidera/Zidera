@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm <b>Lucas</b>, a Software Development student at Sterling College, right now I am focusing to develop more my Front End skills. I am currently living at <b>British Columbia, Canada</b> <img src="https://cdn-icons-png.flaticon.com/512/555/555473.png" width="13"/> but I am a <b>brazilian</b> <img src="https://cdn-icons-png.flaticon.com/512/2045/2045991.png" width="13"/>, so no 7-1 jokes allowed here.</p>
+<p>Welcome to my page! </br> I'm <b>Lucas</b>. I am currently living at <b>British Columbia, Canada</b> <img src="https://cdn-icons-png.flaticon.com/512/555/555473.png" width="13"/> but I am a <b>brazilian</b> <img src="https://cdn-icons-png.flaticon.com/512/2045/2045991.png" width="13"/>, so no 7-1 jokes allowed here.</p>
 
 <h3>Things I am comfortably coding with:</h3>
 <p>
